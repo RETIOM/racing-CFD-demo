@@ -65,7 +65,7 @@ A robust automation system for CFD simulations using **STAR-CCM+** on **PLGrid A
 .
 ├── assets/                 # README assets
 ├── README.md
-├── .gitattributes
+├── .gitignore
 ├── documentation/          # Documentation workflow(Stored in cloud/locally)
 │  ├── documentation.mlx        # Summary creation
 │  └── mastersheet/
